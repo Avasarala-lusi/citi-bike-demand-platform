@@ -1,0 +1,11 @@
+{
+  "model_family": "RandomForest",
+  "param_class_weight": "balanced",
+  "param_max_depth": 12,
+  "param_min_samples_leaf": 2,
+  "param_n_estimators": 250,
+  "q25": 3.0,
+  "q75": 31.0,
+  "station_id": "6140.05",
+  "tuned": "True"
+}

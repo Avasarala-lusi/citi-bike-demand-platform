@@ -1,0 +1,15 @@
+{
+  "model_family": "LightGBM",
+  "param_class_weight": null,
+  "param_colsample_bytree": 0.7824279936868144,
+  "param_learning_rate": 0.023927528765580644,
+  "param_max_depth": 4,
+  "param_min_child_samples": 30,
+  "param_n_estimators": 250,
+  "param_num_leaves": 84,
+  "param_subsample": 0.7465447373174767,
+  "q25": 3.0,
+  "q75": 31.0,
+  "station_id": "6140.05",
+  "tuned": "True"
+}

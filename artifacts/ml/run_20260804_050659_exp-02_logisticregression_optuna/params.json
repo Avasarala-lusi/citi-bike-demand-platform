@@ -1,0 +1,9 @@
+{
+  "model_family": "LogisticRegression",
+  "param_C": 0.012318808622329666,
+  "param_class_weight": null,
+  "q25": 3.0,
+  "q75": 31.0,
+  "station_id": "6140.05",
+  "tuned": "True"
+}

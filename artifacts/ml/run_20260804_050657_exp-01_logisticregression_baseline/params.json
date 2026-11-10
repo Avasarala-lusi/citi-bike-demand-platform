@@ -1,0 +1,7 @@
+{
+  "model_family": "LogisticRegression",
+  "q25": 3.0,
+  "q75": 31.0,
+  "station_id": "6140.05",
+  "tuned": "False"
+}
